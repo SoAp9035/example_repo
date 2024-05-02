@@ -1,3 +1,3 @@
 # Example Repository
 
-This is an example repository
+This is an example repository.
